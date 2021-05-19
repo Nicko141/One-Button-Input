@@ -1,0 +1,293 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2019.4.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/One Button Input
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58219
+Successfully changed project path to: F:/One Button Input
+F:/One Button Input
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/One Button Input/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002531 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000702 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.746 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.5 MB.
+System memory in use after: 58.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 1.773300 ms (FindLiveObjects: 0.125000 ms CreateObjectMapping: 0.033600 ms MarkObjects: 1.533200 ms  DeleteObjects: 0.080400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Door-Opened.png
+  artifactKey: Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Opened.png using Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5ce9bc67ae5842886fe77e0ff6e6f4') in 0.117194 seconds
+  Import took 0.118942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Door-Locked.png
+  artifactKey: Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Locked.png using Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a573a1bab19281617161e9cbef0bfb') in 0.051125 seconds
+  Import took 0.052878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Door-Closed.png
+  artifactKey: Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Closed.png using Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27668e46fff53b3365052e1a26b7a10') in 0.039639 seconds
+  Import took 0.041476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.405451 seconds.
+  path: Assets/Door-Closed.png
+  artifactKey: Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Closed.png using Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788c47afcf1662a95a869ac87137efc0') in 0.066156 seconds
+  Import took 0.068070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.893053 seconds.
+  path: Assets/Door-Locked.png
+  artifactKey: Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Locked.png using Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b15c87b17e66186be6d2b68b7c6d428') in 0.051161 seconds
+  Import took 0.053734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000878 seconds.
+  path: Assets/Door-Locked.png
+  artifactKey: Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Locked.png using Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b15c87b17e66186be6d2b68b7c6d428') in 0.040754 seconds
+  Import took 0.043696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.735861 seconds.
+  path: Assets/Door-Opened.png
+  artifactKey: Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Opened.png using Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f1a3e2a8adb7e6a965af0f27f66b13') in 0.050029 seconds
+  Import took 0.051896 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000643 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.7 MB.
+System memory in use after: 61.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1598.
+Total: 1.591900 ms (FindLiveObjects: 0.145100 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.358700 ms  DeleteObjects: 0.050800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 238.305095 seconds.
+  path: Assets/Door-Closed.png
+  artifactKey: Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Closed.png using Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964ffba19d5f0b45394ef6cafd7b3d03') in 0.077733 seconds
+  Import took 0.079652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.613550 seconds.
+  path: Assets/Door-Locked.png
+  artifactKey: Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Locked.png using Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9552099f4b3cce1e366a3e05883e83d') in 0.068916 seconds
+  Import took 0.070773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.625868 seconds.
+  path: Assets/Door-Opened.png
+  artifactKey: Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Opened.png using Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5b3f0f0c373628bc3e0bef9f20d406') in 0.038893 seconds
+  Import took 0.041170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.161507 seconds.
+  path: Assets/Door-Closed.png
+  artifactKey: Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Closed.png using Guid(5636a8b98f04d8b469e792592dde9c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c5aa05f2234504ef9dfc7fb68ddef6') in 0.053343 seconds
+  Import took 0.055676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.375207 seconds.
+  path: Assets/Door-Locked.png
+  artifactKey: Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Locked.png using Guid(c1920f1048d137b4c89b4f227f821726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb9ee37ca2d9fe2896e0ba79cd2f496') in 0.055369 seconds
+  Import took 0.057616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.101297 seconds.
+  path: Assets/Door-Opened.png
+  artifactKey: Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Door-Opened.png using Guid(904e81bb099746a42a4addbbea880e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e9254d431f16e4dc5f4e23a439a84c') in 0.043681 seconds
+  Import took 0.046245 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.9 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1601.
+Total: 1.535500 ms (FindLiveObjects: 0.139800 ms CreateObjectMapping: 0.035100 ms MarkObjects: 1.295400 ms  DeleteObjects: 0.064600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 1.731500 ms (FindLiveObjects: 0.184000 ms CreateObjectMapping: 0.030300 ms MarkObjects: 1.471500 ms  DeleteObjects: 0.044800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.697 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1605.
+Total: 1.405300 ms (FindLiveObjects: 0.123500 ms CreateObjectMapping: 0.037000 ms MarkObjects: 1.203500 ms  DeleteObjects: 0.040300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.696 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.4 MB.
+System memory in use after: 62.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 1.812600 ms (FindLiveObjects: 0.153700 ms CreateObjectMapping: 0.042100 ms MarkObjects: 1.517700 ms  DeleteObjects: 0.097700 ms)
+
